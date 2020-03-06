@@ -23,7 +23,7 @@ component ram_global is ram
 				 addr => addr;
 				 din => din;
 				 dout => dout);
-end component ram;
+end component ram_global;
 
 
 
